@@ -45,6 +45,7 @@
 #### Demos
 - [Adjacency List](./src/1.2.1-adjacency-list-with-list.py)
 - [Adjacency List - With Hash Table](./src/1.2.2-adjacency-list-with-hashtable.py)
+- [Adjacency List - Playground](./src/1.2.3-adjacency-list-playground.py)
 
 
 ## References
