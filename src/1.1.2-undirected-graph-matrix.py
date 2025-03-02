@@ -1,4 +1,4 @@
-class GraphMatrix:
+class Graph:
     def __init__(self, size):
         self.matrix = [[0] * size for _ in range(size)]
         self.size = size
@@ -26,7 +26,7 @@ class GraphMatrix:
                     print(f"Edge {u} -> {v}")
 
 
-graph = GraphMatrix(4)
+graph = Graph(4)
 
 graph.add_edge(0, 1)
 graph.add_edge(1, 2)
