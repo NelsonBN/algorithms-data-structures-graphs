@@ -23,7 +23,7 @@
 - [Adjacency Matrix](./src/1.1.1-adjacency-matrix.py)
 - [Undirected Graph](./src/1.1.2-undirected-graph-matrix.py)
 - [Directed Graph](./src/1.1.3-directed-graph-matrix.py)
-- [Undirected Graph - Playground](./src/1.1.4-undirected-graph-playground.py)
+- [Adjacency Matrix - Playground](./src/1.1.4-adjacency-matrix-playground.py)
 
 
 ### Adjacency List
