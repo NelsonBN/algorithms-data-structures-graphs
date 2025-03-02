@@ -48,5 +48,23 @@
 - [Adjacency List - Playground](./src/1.2.3-adjacency-list-playground.py)
 
 
+### Edge List
+
+#### Asymptotic Complexity
+- Time complexity:
+  - Insertion: O(1)
+  - Deletion: O(E)
+- Space complexity: O(E)
+
+#### Pros
+- Space complexity is O(E)
+- Fast to add edges
+
+#### Cons
+- Slow to access edge (u, v), O(E)
+
+#### Demos
+- [Edge List](./src/1.3.1-edge-list.py)
+
 ## References
 - [Other Algorithms & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
