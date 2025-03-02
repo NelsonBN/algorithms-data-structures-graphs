@@ -26,5 +26,12 @@
 - [Undirected Graph - Playground](./src/1.1.4-undirected-graph-playground.py)
 
 
+### Adjacency List
+
+#### Demos
+  - [Adjacency List](./src/1.2.1-adjacency-list-with-list.py)
+  - [Adjacency List Weighted](./src/1.2.2-adjacency-list-weighted.py)
+
+
 ## References
 - [Other Algorithms & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
