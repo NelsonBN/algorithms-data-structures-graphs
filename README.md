@@ -24,3 +24,7 @@
 - [Undirected Graph](./src/1.1-undirected-graph-matrix.py)
 - [Directed Graph](./src/1.2-directed-graph-matrix.py)
 - [Undirected Graph - Playground](./src/1.3-undirected-graph-playground.py)
+
+
+## References
+- [Other algoritmos & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
