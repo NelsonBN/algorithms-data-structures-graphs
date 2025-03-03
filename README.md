@@ -19,11 +19,11 @@
 - Its not efficient for sparse graphs
 
 ### Demos
-- [Adjacency Matrix](./src/1.1.1-adjacency-matrix.py)
-- [Undirected Graph](./src/1.1.2-undirected-graph-matrix.py)
-- [Directed Graph](./src/1.1.3-directed-graph-matrix.py)
-- [Adjacency Matrix - Playground](./src/1.1.4-adjacency-matrix-playground.py)
-- [Adjacency Matrix - Weighted](./src/1.1.5-adjacency-matrix-weighted.py)
+- [Adjacency Matrix](./src/1.1-adjacency-matrix.py)
+- [Undirected Graph](./src/1.2-undirected-graph-matrix.py)
+- [Directed Graph](./src/1.3-directed-graph-matrix.py)
+- [Adjacency Matrix - Playground](./src/1.4-adjacency-matrix-playground.py)
+- [Adjacency Matrix - Weighted](./src/1.5-adjacency-matrix-weighted.py)
 
 
 
@@ -43,9 +43,9 @@
 - Slow to access edge (u, v), O(V) using list, but can be O(1) using Hash Table
 
 ### Demos
-- [Adjacency List](./src/1.2.1-adjacency-list-with-list.py)
-- [Adjacency List - With Hash Table](./src/1.2.2-adjacency-list-with-hashtable.py)
-- [Adjacency List - Playground](./src/1.2.3-adjacency-list-playground.py)
+- [Adjacency List](./src/2.1-adjacency-list.py)
+- [Adjacency List - With Hash Table](./src/2.2-adjacency-list-with-hashtable.py)
+- [Adjacency List - Playground](./src/2.3-adjacency-list-playground.py)
 
 
 
@@ -65,7 +65,7 @@
 - Slow to access edge (u, v), O(E)
 
 ### Demos
-- [Edge List](./src/1.3.1-edge-list.py)
+- [Edge List](./src/3.1-edge-list.py)
 
 
 
